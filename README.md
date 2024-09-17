@@ -43,3 +43,20 @@ Raylib C++ Starter Template for Visual Studio Code on Windows. It works with ray
 - Double click on the `main.code-workspace` file. This will open the template in VS Code.
 - From the Explorer Window of VS Code navigate to the `src` folder and double click on the `main.cpp` file.
 - Press `F5` on the keyboard to compile and run the program.
+
+
+------------
+
+#### Congratulations! You've successfully set up and run the Raylib template in Visual Studio Code! 🚀
+
+Now you're all set to start creating awesome games or graphical applications. Here are a few ideas for your next steps:
+
+- 🛠 Explore the template files and familiarize yourself with the code.
+- 🎮 Modify the example to experiment with graphics, sound, and more.
+- 🌟 Dive into the Raylib documentation to discover all the features available to you!
+##### Happy coding, and welcome to the world of Raylib! Happy coding, and welcome to the world of Raylib!
+###### Important Configuration Changes:
+
+- `Makefile`: Navigate to Line 27 and replace "ProjectName" with the actual name of your project. This is crucial to ensure the correct output binary is generated.
+
+- `src/main.cpp`: Instructions are embedded in the code comments. However, if no further modifications were made to the template, ensure the project name on Line 9 matches the name set in the Makefile. This step is essential for maintaining consistency across your project.
